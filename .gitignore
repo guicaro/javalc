@@ -1,0 +1,20 @@
+#vim
+
+*.swp
+
+# vscode
+.vscode
+.classpath
+.project
+.settings
+
+# macos
+.DS_Store
+
+# maven
+target/
+
+# java
+*.class
+*.jar
+
